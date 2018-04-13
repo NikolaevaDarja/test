@@ -1,8 +1,2 @@
 789 10 11 12
-87fkuf
-<<<<<<< HEAD
-fgesliug
-=======
-9086yf
-jhdvclaisdf
->>>>>>> 8ffca0dbd9677a9e484d9ad67eab2088d076769d
+
